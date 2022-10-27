@@ -1,0 +1,6 @@
+The solutions with the parameters (3,5,7) are: 
+x1=-0.833333+i(1.28019)
+x2=-0.833333+i(-1.28019)
+The solutions with the parameters (1,10,2) are: 
+x1=-0.204168
+x2=-9.79583

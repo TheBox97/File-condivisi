@@ -1,0 +1,6 @@
+The solutions with the parameters (3,4,8) are: 
+x1=0+i(1)
+x2=0+i(-1)
+The solutions with the parameters (3,4,8) are: 
+x1=-0.666667+i(1.49071)
+x2=-0.666667+i(-1.49071)
